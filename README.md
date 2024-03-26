@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Najam!</h1>
+<img align="right" alt="coding" src="https://i.pinimg.com/originals/15/22/dd/1522ddece6c1e3ab7ee15871255d3ec8.gif?message=bulb&color=black" height="250"/>
 <h3 align="left">Creating Seamless User Experiences with Web Technologies</h3>
-
 <p align="left">🥷Software Engineer sharing my journey to inspire and connect with tech enthusiasts<br>
 💡Studied Computer Science at the University of Nims, Jaipur<br>
 🚀Currently exploring new technologies to enhance user experiences<br>

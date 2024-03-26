@@ -1,5 +1,9 @@
 <h1 align="left">Hi 👋, I'm Najam!</h1>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" height="250"/>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=najam0121.najam0121&"  />
+</div>
+
 <h3 align="left">Creating Seamless User Experiences with Web Technologies</h3>
 <p align="left">🥷Software Engineer sharing my journey to inspire and connect with tech enthusiasts<br>
 💡Studied Computer Science at the University of Nims, Jaipur<br>

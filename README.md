@@ -6,6 +6,7 @@
 🚀Currently exploring new technologies to enhance user experiences<br>
 🎨Creative thinker passionate about innovative web development<br></p>
 <br>
+
 <h2 align="left">🌐Connect with me:</h2>
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/mdnajam9/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin badge"/></a>
@@ -37,13 +38,9 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 
  </p>
+<br>
+<h2 align="left">📊 Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=najam0121&show_icons=true&theme=gruvbox)
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najam0121&show_icons=true&locale=en&layout=compact" alt="najam0121" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najam0121&" alt="najam0121" /></p>
-
+<br>
